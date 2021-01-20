@@ -6,9 +6,20 @@
     <description>Recent content in Data Science Portfolio on Peter Le</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Dec 2020 11:13:32 -0400</lastBuildDate><atom:link href="https://peterle93.github.io/Peter_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://peterle93.github.io/Peter_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 3: Disaster Response Pipeline</title>
+      <title>Recommendations with IBM</title>
+      <link>https://peterle93.github.io/Peter_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 20 Jan 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://peterle93.github.io/Peter_Portfolio/post/project-4/</guid>
+      <description>For this project, we will analyze the interactions users have with articles on the IBM Watson Studio platorm and provide recommendations on which new articles you think they will like. To determine which articles to show to each user, we will be performing a study of the data available on the IBM Watson Studio platform.
+The project will be divided into the following parts:
+I. Exploratory Data Analysis Before making recommendations, we will did to explore the data that we are working with for the project.</description>
+    </item>
+    
+    <item>
+      <title>Disaster Response Pipeline</title>
       <link>https://peterle93.github.io/Peter_Portfolio/post/project-3/</link>
       <pubDate>Thu, 17 Dec 2020 11:13:32 -0400</pubDate>
       
@@ -19,7 +30,7 @@ Building an ETL pipeline to extract data, cleaning the data and storing it into 
     </item>
     
     <item>
-      <title>Project 2: Things to know before planning a trip to Toronto</title>
+      <title>Things to know before planning a trip to Toronto</title>
       <link>https://peterle93.github.io/Peter_Portfolio/post/project-2/</link>
       <pubDate>Wed, 02 Dec 2020 11:00:59 -0400</pubDate>
       
@@ -30,7 +41,7 @@ This project (Write a Data Science Blog Post) is part of Udacity Data Scientist 
     </item>
     
     <item>
-      <title>Project 1: Battle of Neighborhoods</title>
+      <title>Battle of Neighborhoods</title>
       <link>https://peterle93.github.io/Peter_Portfolio/post/project-1/</link>
       <pubDate>Sat, 28 Nov 2020 10:58:08 -0400</pubDate>
       
@@ -41,20 +52,11 @@ Many people move into parts of Canada and need tons of prior research dealing wi
     </item>
     
     <item>
-      <title>Project 5: Coming soon</title>
+      <title>Coming Soon</title>
       <link>https://peterle93.github.io/Peter_Portfolio/post/project-5/</link>
       <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
       
       <guid>https://peterle93.github.io/Peter_Portfolio/post/project-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 4: Recommendations with IBM</title>
-      <link>https://peterle93.github.io/Peter_Portfolio/post/project-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://peterle93.github.io/Peter_Portfolio/post/project-4/</guid>
       <description></description>
     </item>
     
