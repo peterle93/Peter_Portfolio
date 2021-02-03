@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://peterle93.github.io/Peter_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Customer Churn Prediction with Spark</title>
+      <link>https://peterle93.github.io/Peter_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://peterle93.github.io/Peter_Portfolio/post/project-5/</guid>
+      <description>Overview
+Customer churn prevention is a hot and challenging problem in almost every product and service company. If companies were able to utilize customer-usage data to find unique trends and accurately map them to indicate which customers may churn, it’s possible to incentivize customers to remain using their services giving them a loyal customer base which is key for a company’s growth.
+Sparkify is a digital music service similar to Spotify and Pandora.</description>
+    </item>
+    
+    <item>
       <title>Recommendations with IBM</title>
       <link>https://peterle93.github.io/Peter_Portfolio/post/project-4/</link>
       <pubDate>Wed, 20 Jan 2021 11:14:48 -0400</pubDate>
@@ -49,15 +60,6 @@ This project (Write a Data Science Blog Post) is part of Udacity Data Scientist 
       <description>Overview
 The purpose of this project is to assist people in researching the most optimal and resourceful locations near their neighborhood. It will provide the necessary information in making the best decision on selecting the neighborhood you would like to live in.
 Many people move into parts of Canada and need tons of prior research dealing with factors such as suitable housing prices, well-known schools for their children, and so on.</description>
-    </item>
-    
-    <item>
-      <title>Coming Soon</title>
-      <link>https://peterle93.github.io/Peter_Portfolio/post/project-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
-      
-      <guid>https://peterle93.github.io/Peter_Portfolio/post/project-5/</guid>
-      <description></description>
     </item>
     
   </channel>

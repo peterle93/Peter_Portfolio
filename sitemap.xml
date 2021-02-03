@@ -3,8 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://peterle93.github.io/Peter_Portfolio/post/project-5/</loc>
+    <lastmod>2021-02-01T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://peterle93.github.io/Peter_Portfolio/</loc>
-    <lastmod>2021-01-20T11:14:48-04:00</lastmod>
+    <lastmod>2021-02-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,27 +45,6 @@
   </url>
   
   <url>
-    <loc>https://peterle93.github.io/Peter_Portfolio/tags/scene/</loc>
-    <lastmod>2020-11-28T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://peterle93.github.io/Peter_Portfolio/tags/</loc>
-    <lastmod>2020-11-28T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://peterle93.github.io/Peter_Portfolio/post/project-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://peterle93.github.io/Peter_Portfolio/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -79,6 +65,12 @@
   
   <url>
     <loc>https://peterle93.github.io/Peter_Portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://peterle93.github.io/Peter_Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
